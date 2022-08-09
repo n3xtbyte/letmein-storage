@@ -1,2 +1,2 @@
 # letmein-storage
-Something
+Здесь хранится что-то очень секретное...
